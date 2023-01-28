@@ -1,0 +1,5 @@
+html, body, #root, .app {
+  font-family: "Rubik", sans-serif;
+  height: 100%;
+  width: 100%;
+}
